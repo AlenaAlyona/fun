@@ -1,0 +1,1 @@
+console.log('Hey you! Yes you, beautiful and smart creature! Don\'t forget how awesome you are! Have a supa-dupa day!')
